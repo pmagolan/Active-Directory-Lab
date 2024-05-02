@@ -9,7 +9,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+ <!--<h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
 - <b>Diskpart</b>
@@ -58,3 +58,4 @@ Observe the wiped disk:  <br/>
 @@ text in purple (and bold)@@
 ```
 --!>
+ --!>
